@@ -1,7 +1,7 @@
 ---
 layout: post
 title: testing
-category: Misc
+categories: Misc
 ---
 
 Testing new post...
