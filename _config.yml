@@ -9,7 +9,7 @@ name: Jillian Zhong
 description: ITP Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+avatar: {{ site.baseurl }}/images/3.gif
 
 #
 # Flags below are optional
