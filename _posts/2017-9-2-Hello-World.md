@@ -1,6 +1,6 @@
 ---
 layout: post
-title: testing
+title: Testing
 categories: Misc
 ---
 
