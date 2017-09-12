@@ -1,5 +1,5 @@
 ---
-category: PComp
+tag: PComp
 permalink: "/category/pcomp"
 ---
 
