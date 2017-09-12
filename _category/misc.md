@@ -1,5 +1,5 @@
 ---
 category: Misc
-permalink: "/misc"
+permalink: "/category/misc"
 ---
 

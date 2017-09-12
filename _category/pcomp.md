@@ -1,5 +1,5 @@
 ---
 category: PComp
-permalink: "/pcomp"
+permalink: "/category/pcomp"
 ---
 
