@@ -1,5 +1,5 @@
 ---
 tag: Misc
-permalink: "/category/misc"
+permalink: "/misc"
 ---
 
