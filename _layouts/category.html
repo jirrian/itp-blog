@@ -6,8 +6,12 @@ layout: default
     <h1>Filed Under <small>#{{ page.tag }}</small></h1>
 
     {% for post in site.categories[page.tag] %}
-        <div class="entry">
+        <div class="post">
+        	 <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     		{{ post.content }}
+  		</div>
+  		<div class="date">
+   			 Written on {{ post.date | date: "%B %e, %Y" }}
   		</div>
     {% endfor %}
 </div>
