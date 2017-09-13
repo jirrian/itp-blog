@@ -8,5 +8,6 @@ At first, I designed my concept around a bright light either inside of an empty 
 
 However, after having this cool drink at Starbucks, I realized I could use the plastic cup it came in instead.
 
-[[https://github.com/jirrian/jirrian.github.io/blob/master/images/introfab/flashlight/IMG_20170909_164124.jpg]]
-[[https://github.com/jirrian/jirrian.github.io/blob/master/images/introfab/flashlight/IMG_20170912_201824.jpg]]
+![alt text](https://github.com/jirrian/jirrian.github.io/blob/master/images/introfab/flashlight/IMG_20170909_164124.jpg)
+
+![alt text](https://github.com/jirrian/jirrian.github.io/blob/master/images/introfab/flashlight/IMG_20170912_201824.jpg)
