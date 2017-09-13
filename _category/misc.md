@@ -1,5 +1,5 @@
 ---
-tag: Misc
+tag: misc
 permalink: "/misc"
 ---
 

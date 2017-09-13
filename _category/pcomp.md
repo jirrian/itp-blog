@@ -1,5 +1,5 @@
 ---
-tag: PComp
+tag: pcomp
 permalink: "/pcomp"
 ---
 
