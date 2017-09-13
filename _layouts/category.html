@@ -6,6 +6,8 @@ layout: default
     <h1>Filed Under <small>#{{ page.tag }}</small></h1>
 
     {% for post in site.categories[page.tag] %}
-        {% include post.html %}
+        <div class="entry">
+    		{{ post.content }}
+  		</div>
     {% endfor %}
 </div>
