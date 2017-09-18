@@ -1,5 +1,5 @@
 ---
 tag: pcomp
-permalink: "/pcomp"
+permalink: "pcomp"
 ---
 
