@@ -21,6 +21,8 @@ After doing all 5, I would move onto the next kind of chain. I repeated this for
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/multiplesChainJewelry/IMG_20170920_212052_c.jpg)
 
 All 5 of the chains finished:
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/multiplesChainJewelry/IMG_20170921_000356.jpg)
+
 Styled as a bracelet in 2 ways:
 ![alt text](https://github.com/jirrian/jirrian.github.io/blob/master/images/introfab/multiplesChainJewelry/bracelets.png?raw=true)
 
