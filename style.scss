@@ -244,10 +244,8 @@ nav {
 .post-categories {
   border-width: 1px;
   border-style: solid;
-  border-color: $lightGray;
-  a:link, a:visited {
-    color: $lightGray;
-  }
+  border-color: $red;
+  padding: 5px;
 }
 
 .posts > .post {
