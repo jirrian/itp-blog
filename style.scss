@@ -242,8 +242,12 @@ nav {
 //
 
 .post-categories {
-  border: 1px solid $lightGray;
-  color: $lightGray;
+  border-width: 1px;
+  border-style: solid;
+  border-color: $lightGray;
+  a:link, a:visited {
+    color: $lightGray;
+  }
 }
 
 .posts > .post {
