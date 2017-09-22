@@ -242,8 +242,10 @@ nav {
 //
 
 .post-categories {
-  border-bottom: 3px solid $red;
-  border-top: 3px solid $red;
+  border-bottom: 1px solid $red;
+  border-top: 1px solid $red;
+  padding-top: 3px;
+  padding-bottom: 3px;
 }
 
 .posts > .post {
