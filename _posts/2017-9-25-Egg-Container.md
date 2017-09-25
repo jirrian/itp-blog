@@ -5,7 +5,6 @@ categories: intro3d
 ---
 
 The concept is an egg shaped container that has a bottom and a lid.
-
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/intro3d/week2/egg_final.jpg)
 
 I started by drawing 2 parallel curves and revolving it around an axis.
