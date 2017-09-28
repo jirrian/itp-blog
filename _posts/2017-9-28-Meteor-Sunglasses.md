@@ -21,7 +21,7 @@ I then continued to use cardboard laser cuts to figure out the placement of the 
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/meteorSunglasses/sizeTest.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/meteorSunglasses/IMG_20170927_195120_c.jpg)
 
-After I was satisfied with the size of lens and placement of screw holes, I cut into clear acrylic as a test since it is cheaper than the amber acrylic. I then fully assembled the glasses together. 
+After I was satisfied with the size of lens and placement of screw holes, I cut into clear acrylic as a test since it is cheaper than the amber acrylic. I did all my cuts with the protective paper still on on both sides. I then fully assembled the glasses together. 
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/meteorSunglasses/IMG_20170927_210810_c.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/meteorSunglasses/IMG_20170927_212353_c.jpg)
 
@@ -33,4 +33,4 @@ Finished product:
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/meteorSunglasses/IMG_20170927_224016_c.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/meteorSunglasses/final.jpg)
 
-Overall, I'm proud of how this piece turned out. It is not really wearable everyday, but it achieved the look I was going for. I would haved liked to have a better choice of hardware: metal temples, nose bridge with to screw holes, etc. This would have made the piece more polished and sturdy.
+Overall, I'm proud of how this piece turned out. It is not really wearable everyday, but it achieved the look I was going for. I would haved liked to have a better choice of hardware: full metal temples, nose bridge with to screw holes, etc. This would have made the piece more polished and sturdy.
