@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Week 1: Soundwalk Reaction"
+title: "Soundwalk and Reading Reaction"
 categories: clvideoandsound
 ---
 

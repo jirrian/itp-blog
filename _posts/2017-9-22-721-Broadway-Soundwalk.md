@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Week 2: 721 Broadway Soundwalk'
+title: '721 Broadway Soundwalk'
 categories: clvideoandsound
 ---
 
