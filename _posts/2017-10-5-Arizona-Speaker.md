@@ -5,7 +5,7 @@ categories: introfab
 ---
 
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/arizonaSpeaker/finished.jpg)
-I made an Arizona can into a speaker. I wanted to be able to hold the can like I would normall hold an Arizona while playing music on it. Since this assignment focused on enclosures (and not whatever's inside), I took apart a cheap store bought rechargable bluetooth speaker and used its components.
+I made an Arizona can into a speaker. I wanted to be able to hold the can like I would normally hold an Arizona while also playing music on it! Since this assignment focused on enclosures (and not whatever's inside), I took apart a cheap store bought rechargable bluetooth speaker and used its components.
 
 I planned on cutting a hole at the top of the can where the speaker would point out. This hole had to be smaller than the speaker, creating a rim where the edge of the speaker could rest ontop. Then, I would lasercut a surface to go on top and secure it with screws going down into the top of the can.
 Rough sketches:
