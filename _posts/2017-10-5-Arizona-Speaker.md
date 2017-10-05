@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arizona Speaker
-categories: introfab  
+categories: introfab
 ---
 
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/arizonaSpeaker/finished.jpg)
