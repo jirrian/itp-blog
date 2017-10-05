@@ -4,12 +4,12 @@ title: Arizona Speaker
 categories: introfab  
 ---
 
-I made an Arizona can into a speaker. I wanted to be able to hold the can like I would normall hold an Arizona while playing music on it. Since this assignment focused on enclosures (and not whatever's inside), I took apart a cheap store bought rechargable bluetooth speaker and used its components.
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/arizonaSpeaker/finished.jpg)
+I made an Arizona can into a speaker. I wanted to be able to hold the can like I would normall hold an Arizona while playing music on it. Since this assignment focused on enclosures (and not whatever's inside), I took apart a cheap store bought rechargable bluetooth speaker and used its components.
 
 I planned on cutting a hole at the top of the can where the speaker would point out. This hole had to be smaller than the speaker, creating a rim where the edge of the speaker could rest ontop. Then, I would lasercut a surface to go on top and secure it with screws going down into the top of the can.
 Rough sketches:
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/arizonaSpeaker/finished.jpg)
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/arizonaSpeaker/sketch.jpg)
 
 My materials were an empty Arizona can that I drank the night before and an $8 speaker.
 ![alt text](https://github.com/jirrian/jirrian.github.io/blob/master/images/introfab/arizonaSpeaker/raw_materials.jpg?raw=true)
@@ -51,7 +51,7 @@ Then I put the cardboard surface on top and screwed it down. Done!
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/arizonaSpeaker/finished2.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/arizonaSpeaker/finished3.jpg)
 
-I didd't produce the circuitry for this speaker but I'm happy to say I didn't destroy its functionality while building this enclosure either. The speaker fully works and can play music from my phone!
+I didn't produce the circuitry for this speaker but I'm happy to say I didn't destroy the functionality while building this enclosure either. The speaker fully works and can play music from my phone!
 
 
 
