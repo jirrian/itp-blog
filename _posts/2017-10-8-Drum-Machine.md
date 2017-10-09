@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Drum Machine: Playing Audio Samples with Arduino
+title: "Drum Machine: Playing Audio Samples with Arduino"
 categories: pcomp
 ---
 
