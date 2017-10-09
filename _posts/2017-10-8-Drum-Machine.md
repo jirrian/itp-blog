@@ -9,11 +9,13 @@ I made a sample based instrument using Arduino Uno and the [PCM library](http://
 
 I began by following the instructions on [this tutorial](http://highlowtech.org/?p=1963){:target="_blank"} and setting up the example. After this worked, I tried creating my own samples. I downloaded samples as wav files and followed the tutorial's instructions on using iTunes to convert them to 8 KHz, 8-bit mono sound mp3 files.
 
-Sample sources: [99 Drum Samples](http://99sounds.org/drum-samples/){:target="_blank"} [Travis Scott Ad-lib Pack](https://www.youtube.com/watch?v=o4raFeWQia4){:target="_blank"}
+Sample sources: [99 Drum Samples](http://99sounds.org/drum-samples/){:target="_blank"}, [Travis Scott Ad-lib Pack](https://www.youtube.com/watch?v=o4raFeWQia4){:target="_blank"}
+
+Converted mp3 files:
 <audio src="https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/pcomp/mp3/kick-electro01.mp3" controls preload></audio>
-![](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/pcomp/mp3/crash-acoustic.mp3)
-![](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/pcomp/mp3/clap-tape.mp3)
-![](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/pcomp/mp3/Ya%20Ya.mp3)
+<audio src="https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/pcomp/mp3/crash-acoustic.mp3" controls preload></audio>
+<audio src="https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/pcomp/mp3/clap-tape.mp3" controls preload></audio>
+<audio src="https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/pcomp/mp3/Ya%20Ya.mp3" controls preload></audio>
 
 I used the EncodeAudio program as per the tutorial to generate a list of numbers per sample which I then stored in arrays.
 ```c++
@@ -51,4 +53,4 @@ The sound output from the speakers was really quiet so I added a transistor (2N2
 Final circuit diagram:
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/pcomp/drumMachinecircuitdiagram.jpg)
 
-<video src="https://github.com/jirrian/jirrian.github.io/blob/master/images/pcomp/drumMachineDemo.mp4?raw=true" width="320" height="200" controls preload></video>
+<video src="https://github.com/jirrian/jirrian.github.io/blob/master/images/pcomp/drumMachineDemo.mp4?raw=true" controls preload></video>
