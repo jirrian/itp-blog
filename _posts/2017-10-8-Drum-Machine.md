@@ -56,4 +56,4 @@ The sound output from the speakers was really quiet so I added a transistor (2N2
 Final circuit diagram:
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/pcomp/drumMachinecircuitdiagram.jpg)
 
-<video src="https://github.com/jirrian/jirrian.github.io/blob/master/images/pcomp/drumMachineDemo.mp4?raw=true" width="960" height="600" controls preload></video>
+<video src="https://github.com/jirrian/jirrian.github.io/blob/master/images/pcomp/drumMachineDemo.mp4?raw=true" width="640" height="400" controls preload></video>
