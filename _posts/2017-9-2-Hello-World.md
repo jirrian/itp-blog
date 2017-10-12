@@ -1,7 +1,5 @@
 ---
 layout: post
-title: Testing
+title: Hello World
 categories: misc
 ---
-
-Testing new post...
