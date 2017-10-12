@@ -28,7 +28,7 @@ I then thought that I could just string the paper portion into hoop earrings. It
 
 I added large holes to my laser cut pattern. I then tried assembling my prototypes.
 Final lasercut pattern:
-
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperDiamond/diamondbox2_lasercut.png)
 
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperDiamond/attemptFour2.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperDiamond/attemptFour3.jpg)
