@@ -5,21 +5,21 @@ categories: introfab
 ---
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/finalPiece.jpg)
 
-Inspiration:
+### Inspiration ###
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/400_Money_Machine_CashCube.jpg)
 
-Motor:
+### Motor ###
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/sharkHandVac.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/motor.jpg)
 
-Testing airflow:
+### Testing airflow ###
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/boxTest.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/testingMoney.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/horizontalOrientation.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/verticalOrientationLarge.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/verticalOrientationSmall.jpg)
 
-Making enclosure:
+### Making enclosure ###
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/designSketch.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/enclosureSketch.jpg)
 
@@ -31,9 +31,10 @@ Making enclosure:
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/grill.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/motorMountWithGrill.jpg)
 
-Testing with different materials:
+### Testing with different materials ###
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/finalTest.jpg)
 
+### Final piece ###
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/finalPiece.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/finalPiece2.jpg)
 
