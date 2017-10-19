@@ -3,9 +3,10 @@ layout: post
 title: "Intro to Fabrication Final: Paper Blowing Machine"
 categories: introfab
 ---
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/finalPiece.jpg)
 
 Inspiration:
-![alt text](https://github.com/jirrian/jirrian.github.io/blob/master/images/introfab/paperBlowingMachine/400_Money_Machine_CashCube.jpg)
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/400_Money_Machine_CashCube.jpg)
 
 Motor:
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/sharkHandVac.jpg)
@@ -29,5 +30,11 @@ Making enclosure:
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/motorMount.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/grill.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/motorMountWithGrill.jpg)
+
+Testing with different materials:
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/finalTest.jpg)
+
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/finalPiece.jpg)
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/finalPiece2.jpg)
 
 
