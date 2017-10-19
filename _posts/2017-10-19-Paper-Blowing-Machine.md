@@ -52,5 +52,5 @@ I found that the vent on the side panel was too large, making the papers stick t
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/finalPiece.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/finalPiece2.jpg)
 
-<video src="https://github.com/jirrian/jirrian.github.io/blob/master/images/introfab/paperBlowingMachine/blowingMachineVideo.mp4?raw=true" width="960" height="600" controls preload></video>
+<video src="https://github.com/jirrian/jirrian.github.io/blob/master/images/introfab/paperBlowingMachine/blowingMachineVideo.mp4?raw=true" width="540" height="810" controls preload></video>
 
