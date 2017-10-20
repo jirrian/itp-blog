@@ -48,6 +48,9 @@ During my air flow tests, I saw that the paper often got stuck on the wires conn
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/finalTest.jpg)
 I found that the vent on the side panel was too large, making the papers stick to it. I ended up using cut up strips of trash bags and napkins. I kind of like how when the trash bag gets stuck to the side vent, you can read what's printed on it.
 
+### Power Source ###
+Currently, I am using a variable power supply to power the piece at 18V. Originally I planned to mount 2 9v batteries in series on the red acrylic layer. However, I realized there is no point to using batteries since the device is not portable anyway. I could mount a power supply jack to the red layer, soldering it to the loose red and black wires, and buy a 18V adapter that plugs into the wall.
+
 ### Final piece ###
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/finalPiece.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/finalPiece2.jpg)
