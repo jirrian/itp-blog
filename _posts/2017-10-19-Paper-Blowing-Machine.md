@@ -7,10 +7,12 @@ categories: introfab
 
 ### Inspiration ###
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/400_Money_Machine_CashCube.jpg)
+
 I remembered going inside of one of these money blowing boxes as a kid and trying to scoop up as much money as I could during the time frame. I wanted to create a smaller, table top version that could store my cash. When I need cash, I just need to pull a dollar through a slit.
 
 ### Motor ###
 The motor was repurposed from a hand vacuum from the junk shelf. It was really hard to remove it because the screws keeping the shell together stripped. I eventually had to pry it apart.
+
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/sharkHandVac.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/introfab/paperBlowingMachine/motor.jpg)
 I tried to reverse the polarity of the motor so that it would blow air out rather than suck; however, reversing the leads didn't change the direction of the air flow. I then decided to just use the 'back' side as the fan. So air is be drawn in through the former vacuum part ('front') and then blown out into the box.
