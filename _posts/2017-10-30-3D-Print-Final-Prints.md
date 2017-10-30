@@ -32,4 +32,7 @@ I attached the nails to my real nails using standard nail glue.
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/intro3d/final/handsOpenSide.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/intro3d/final/handsOpenTop.jpg)
 
+<video src="https://github.com/jirrian/jirrian.github.io/blob/master/images/intro3d/final/nailDemo.mp4?raw=true" width="540" height="810" controls preload></video>
+
+#### Conclusion ####
 The nails don't fit exactly to the curvature of my real nails but stay on pretty well with nail glue. I would like to improve my design to be more intricate, try different and more unconventional nail shapes, and implement 3-dimensional designs on top.
