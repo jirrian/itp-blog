@@ -22,12 +22,12 @@ I'm looking at examples of simple motorized curtains with Arduino as well as pro
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2H9D_xhJZHc" frameborder="0" allowfullscreen></iframe>
 
 #### Running list of Materials ####
-Arduino Uno
-microphones - 2
-servo
-rubber belt
-headpiece - plastic headband, track (metal?)
-belt attachments for curtain
-fabric curtains
-battery power source
+* Arduino Uno
+* microphones - 2
+* servo
+* rubber belt
+* headpiece - plastic headband, track (metal?)
+* belt attachments for curtain
+* fabric curtains
+* battery power source
 
