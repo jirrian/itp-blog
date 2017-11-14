@@ -9,10 +9,10 @@ categories: pcomp
 My final idea is to create a "wearable" that reacts to myself and people around me. I want to fabricate a headpiece based on a theatre curtain. A headband will support a metal track around the my head. The curtain will be attached to this track. There will be 2 directional microphones, one pointed at me (the wearer) and one pointed away. When the I speak, the curtain will close over my face, muffling my voice. If the fabric is not enough to muffle my voice, I may have speakers start to play music. When someone speaks to me, the curtain will open, allowing people to look at me and speak to me.
 
 #### Interaction Demonstration ####
-Someone else speaking to me:
+##### Someone else speaking to me #####
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/pcomp/final/demo/demo_uspeak.gif)
 
-Me speaking:
+##### Me speaking #####
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/pcomp/final/demo/demo_ispeak.gif)
 
 #### Research ####
