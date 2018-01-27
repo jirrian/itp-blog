@@ -1,0 +1,5 @@
+---
+tag: hardware
+permalink: "/hardware"
+---
+

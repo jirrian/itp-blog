@@ -1,0 +1,5 @@
+---
+tag: magicwindows
+permalink: "/magicwindows"
+---
+

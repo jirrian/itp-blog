@@ -1,0 +1,5 @@
+---
+tag: comics
+permalink: "/comics"
+---
+
