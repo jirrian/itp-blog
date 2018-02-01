@@ -29,6 +29,6 @@ We tested the experience with 2 people: Huiyi and Simon. The heat pad wasn't wor
 <video src="https://github.com/jirrian/jirrian.github.io/blob/master/images/poetics_of_space/week1/huiyi.mp4?raw=true" width="640" height="400" controls preload></video>
 
 The second time, the heatpad was working and the headphones were playing sound. Simon felt that he was in the environment and that he was with the 2 people in the video. He especially thought the blow dryer added a lot to the experience. However, he pointed out that the sudden jump from the 'real world' to the virtual experience was jarring and made it difficult to feel truly present in the virtual environment.
-<video src="https://github.com/jirrian/jirrian.github.io/blob/master/images/poetics_of_space/week1/simon_edited.mov" width="640" height="400" controls preload></video>
+<video src="https://github.com/jirrian/jirrian.github.io/blob/master/images/poetics_of_space/week1/simon.mp4?raw=true" width="640" height="400" controls preload></video>
 
 
