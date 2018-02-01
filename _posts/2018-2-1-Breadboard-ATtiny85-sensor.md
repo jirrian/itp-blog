@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Breadboard ATtiny85 Sensor"
-categories: animation
+categories: hardware
 ---
 
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/week1/week1_breadboard.jpg)
