@@ -16,4 +16,6 @@ categories: comics
   	<li>parallel</li>
   	<li>additive</li>
  	<li>interdependent</li>
+ </ol>
 </details>
+
