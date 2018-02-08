@@ -20,7 +20,7 @@ If the product is the experience of interacting with the product and not the ski
 
 We created 3 objects and a website to explain this electronic ritual.
 
-####[Shinier website](https://linzhangcs.github.io/shiner/)####
+[Shinier website](https://linzhangcs.github.io/shiner/)
 
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/electronicrituals/shinier/3_dark.jpg)
 
