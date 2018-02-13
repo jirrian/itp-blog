@@ -8,6 +8,6 @@ Daily diary entries from the week of January 30th to February 5th. Each entry wa
 
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/comics/DailyDiary/DiaryJan30.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/comics/DailyDiary/DiaryJan31.jpg)
-https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/comics/DailyDiary/DiaryFeb1-2.jpg
-https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/comics/DailyDiary/DiaryFeb3-4.jpg
-https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/comics/DailyDiary/DiaryFeb5.jpg
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/comics/DailyDiary/DiaryFeb1-2.jpg)
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/comics/DailyDiary/DiaryFeb3-4.jpg)
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/comics/DailyDiary/DiaryFeb5.jpg)
