@@ -52,7 +52,7 @@
 			"name": "laundry card",
 			"memory": "This is from the laundromat across from the first apartment I lived in after I moved back to New York. At this apartment and through late night runs to the laundromat, I learned to accept stability and care for my mental health.",
 			"meaning": {
-				"up": "stability and finding happiness in every day life",
+				"up": "stability, security, and finding happiness in every day life",
 				"down": "instability and constant change as a result from own decisions"
 			},
 			"image": {
@@ -94,6 +94,30 @@
 			"image": {
 				"front": "yugiohcard_front.jpg",
 				"back": "yugiohcard_back.jpg"
+			} 
+		},
+		{
+			"name": "pixels movie ticket",
+			"memory": "I went to see this movie with a good friend thinking it would be so bad it would be good. It was actually just really bad and we were so mad we wasted $16 dollars on the ticket that we snuck into a different movie showing.",
+			"meaning": {
+				"up": "strong bond and closeness in a friendship",
+				"down": "distance in relationships with friends"
+			},
+			"image": {
+				"front": "pixelsticket_front.jpg",
+				"back": "pixelsticket_back.jpg"
+			} 
+		},
+		{
+			"name": "red envelope",
+			"memory": "I saved this from a Chinese New Year from childhood. The time of the new year gives me a feeling of warmth and closeness with my family and community.",
+			"meaning": {
+				"up": "warmth, closeness with family, and joy like that experienced in childhood",
+				"down": "coldness and distance from family"
+			},
+			"image": {
+				"front": "redenvelope_front.jpg",
+				"back": "redenvelope_back.jpg"
 			} 
 		}
 	]
