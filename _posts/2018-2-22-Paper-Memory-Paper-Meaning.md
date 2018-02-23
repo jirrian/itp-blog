@@ -4,8 +4,8 @@ title: "Meditation #2: Paper Memory Paper Meaning"
 categories: electronicrituals
 ---
 
-image
-[Paper Memory Paper Meaning](http://blog.jzhong.today/papermemorypapermeaning/){:target="_blank"}
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/electronicrituals/papermemorypapermeaningss.png)
+###[Paper Memory Paper Meaning](http://blog.jzhong.today/papermemorypapermeaning/){:target="_blank"}###
 
 [jQuery Flip plugin](https://nnattawat.github.io/flip/){:target="_blank"}
 
