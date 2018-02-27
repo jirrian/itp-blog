@@ -7,6 +7,8 @@ categories: electronicrituals
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/electronicrituals/papermemorypapermeaningss.png)
 [Paper Memory Paper Meaning](http://blog.jzhong.today/papermemorypapermeaning/){:target="_blank"}
 
+I was interested in the prompt 'what can a card be?' and also how we attribute meaning to tarot cards based on imagery and conventional understandings.
+
 [jQuery Flip plugin](https://nnattawat.github.io/flip/){:target="_blank"}
 
 [link to json file I created to store info on 'cards'](https://github.com/jirrian/jirrian.github.io/blob/master/papermemorypapermeaning/cards.json){:target="_blank"}
