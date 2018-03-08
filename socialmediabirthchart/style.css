@@ -20,7 +20,15 @@ body{
 	color: white;
 }
 
-a:link, a:visited {
+.header:link, .header:visited {
+	color:white;
+}
+
+.header:hover, .header:active {
+	color:blue;
+}
+
+.button:link, .button:visited {
     background-color: white;
     color: blue;
     padding: 14px 25px;
@@ -31,7 +39,7 @@ a:link, a:visited {
 }
 
 
-a:hover, a:active {
+.button:hover, .button:active {
     background-color: blue;
     color: white;
 }
