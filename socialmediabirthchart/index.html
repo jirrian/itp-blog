@@ -10,10 +10,24 @@
   		</div>
 
     	<script>
-    		//window.addEventListener("hashch`ange", function () {
-    			var accessToken = window.location.hash;
+    		//window.addEventListener("hashchange", function () {
+    			var accessToken = window.location.hash.substr(14);
     			console.log(accessToken);
+    			getRecentPostInfo(accessToken);
 			//});
+
+			function getRecentPostInfo(accessToken){
+				var requesturl = 'https://api.instagram.com/v1/users/self/media/recent/?access_token=' + accessToken;
+        		var request = new XMLHttpRequest();
+        		request.open('GET', requesturl);
+	        	request.responseType = 'json';
+				request.send();
+
+				request.onload = function() {
+	  				var data = request.response;
+	  				console.log(data);
+	  			}
+			}
     	</script>
     </body>
 </html> 
