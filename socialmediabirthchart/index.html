@@ -41,14 +41,13 @@
 					var month = a.getUTCMonth() + 1;
 					var day = a.getUTCDate();
 					var UTChour = a.getUTCHours();
-					var ampm;
+					var ampm = 'AM';
 					var hour;
-					if(UTChour <= 11){
-						hour = UTChour + 1;
-						ampm = "AM";
+					if(UTChour == 0){
+						hour = 12;
 					}
-					else{
-						hour = UTChour - 12 + 1;
+					else if(UTChour > 12){
+						hour = UTChour % 12;
 						ampm = "PM";
 					}
 					var minute = a.getUTCMinutes();
