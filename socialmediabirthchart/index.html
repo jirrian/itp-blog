@@ -6,15 +6,16 @@
     </head>
     <body>
     	<div>
+    	<p>Generates a birth chart for your most recent instagram post</p>
     	<a href='https://api.instagram.com/oauth/authorize/?client_id=7b9daffc46ea4ec7acd7264f939be807&redirect_uri=http://blog.jzhong.today/socialmediabirthchart/&response_type=token'>Get my social media birth chart</a>
   		</div>
 
     	<script>
-    		//window.addEventListener("hashchange", function () {
+    		if(window.location.hash != ""){
     			var accessToken = window.location.hash.substr(14);
     			console.log(accessToken);
     			getRecentPostInfo(accessToken);
-			//});
+			}
 
 			function getRecentPostInfo(accessToken){
 				var requesturl = 'https://api.instagram.com/v1/users/self/media/recent/?access_token=' + accessToken;
@@ -24,10 +25,50 @@
 				request.send();
 
 				request.onload = function() {
-	  				var data = request.response;
-	  				console.log(data);
+	  				var jsonObj = request.response;
+	  				console.log(jsonObj);
+	  				//username
+	  				var username = jsonObj['data'][0]['user']['username'];
+	  				//date and time
+	  				var createdTime = jsonObj['data'][0]['created_time'];
+
+	  				var a = new Date(createdTime * 1000);
+					var year = a.getUTCFullYear();
+					var month = a.getUTCMonth() + 1;
+					var day = a.getUTCDate();
+					var UTChour = a.getUTCHours();
+					var ampm;
+					var hour;
+					if(UTChour <= 11){
+						hour = UTChour + 1;
+						ampm = "AM";
+					}
+					else{
+						hour = UTChour - 12 + 1;
+						ampm = "PM";
+					}
+					var minute = a.getUTCMinutes();
+
+	  				//location
+	  				var location = jsonObj['data'][0]['location'];
+	  				if(location != null){
+	  					var latitude = location['latitude'];
+	  					var longitude = location['longitude'];
+	  				}
+	  				// just put new york as the default
+	  				else{
+	  					var latitude = 40.730610;
+	  					var longitude = -73.935242;
+	  				}
+	  				generateBirthChartLink(username, month, day, year, hour, minute, ampm, latitude, longitude);
 	  			}
 			}
+
+			function generateBirthChartLink(username, month, day, year, hour, minute, ampm, latitude, longitude){
+				var chartURL = "https://alabe.com/cgi-bin/chart/astrobot.cgi?INPUT1=" + username + "&MONTH=" + month + "&DAY=" + day + "&YEAR=" + year + "&HOUR=" + hour + "&MINUTE=" + minute + "&AMPM=" + ampm + "&INPUT6=" + latitude + "&INPUT7=" + longitude + "&INPUT8=UTC";
+				window.open(charturl);
+			}
+
     	</script>
     </body>
 </html> 
