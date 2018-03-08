@@ -2,4 +2,36 @@
 	font-family: 'Courier New'
 }
 
+body{
+	background-image: url("space.jpg");
+}
 
+.main{
+	margin: auto;
+	width: 80%;
+	padding: 5px;
+	color: white;
+}
+
+.header{
+	padding-top: 50px;
+	margin: auto;
+	width: 80%;
+	color: white;
+}
+
+a:link, a:visited {
+    background-color: white;
+    color: blue;
+    padding: 14px 25px;
+    border: 1px solid blue;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: blue;
+    color: white;
+}
