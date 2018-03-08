@@ -66,7 +66,8 @@
 
 			function generateBirthChartLink(username, month, day, year, hour, minute, ampm, latitude, longitude){
 				var chartURL = "https://alabe.com/cgi-bin/chart/astrobot.cgi?INPUT1=" + username + "&MONTH=" + month + "&DAY=" + day + "&YEAR=" + year + "&HOUR=" + hour + "&MINUTE=" + minute + "&AMPM=" + ampm + "&INPUT6=" + latitude + "&INPUT7=" + longitude + "&INPUT8=UTC";
-				window.open(charturl);
+				console.log(chartURL);
+				window.open(chartURL);
 			}
 
     	</script>
