@@ -5,13 +5,15 @@
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
+    	<div>
     	<a href='https://api.instagram.com/oauth/authorize/?client_id=7b9daffc46ea4ec7acd7264f939be807&redirect_uri=http://blog.jzhong.today/socialmediabirthchart/&response_type=token'>Get my social media birth chart</a>
+  		</div>
 
     	<script>
-    		window.addEventListener("hashchange", function () {
+    		//window.addEventListener("hashch`ange", function () {
     			var accessToken = window.location.hash;
     			print(accessToken);
-			});
+			//});
     	</script>
     </body>
 </html> 
