@@ -12,11 +12,11 @@ I made a battery powered earing with neopixels. My goal for this assignment was 
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/midterm/neopixel_earring_brd.png)
 
 #### Parts List ####
-WS2812B neopixel (7)
-0.1μF capacitor (7)
-ATTiny85
-[coin cell battery holder](https://www.amazon.com/gp/product/B01J5FY2GI/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
-3V coin cell battery
+* WS2812B neopixel (7)
+* 0.1μF capacitor (7)
+* ATTiny85
+* [coin cell battery holder](https://www.amazon.com/gp/product/B01J5FY2GI/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
+* 3V coin cell battery
 
 #### Code ####
 I used Adafruit's example code for neopixels and adapted it for my needs. I turned the brightness down since I'm only powering it with a 3V coin cell battery.
@@ -88,4 +88,4 @@ After receiving the battery holders, I found out that they are different from th
 While programming, I realized I also made a mistake in the board design and forgot to add an external pull-up resistor to VCC on the reset pin of the ATTiny85. I also did not add a resistor before my first neopixel which is recommended by Adafruit.
 
 #### Documentation Images ####
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rnmWxoutTYg" frameborder="0"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rnmWxoutTYg" frameborder="0" allowfullscreen></iframe>
