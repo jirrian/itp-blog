@@ -5,7 +5,7 @@ categories: hardware
 ---
 
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/midterm/earring_final.jpg)
-I made a battery powered earing with neopixels. My goal for this assignment was to learn how to use surface mount components so I kept the design and functionality.
+I made a battery powered earing with neopixels. My goal for this assignment was to learn how to use surface mount components so I kept the design and functionality simple.
 
 #### Schematic and Board Design ####
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/midterm/neopixel_earring_sch.png)
