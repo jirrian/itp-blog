@@ -33,13 +33,16 @@ Week 1
 - Design character profiles for all graves (I'm thinking 3-4)
 - Find and make assets
 - Make general room base
+
 Week 2
 - Populate rooms with objects
 - Implement central hub room and how to move to graves from there
 - Start user interaction with objects (how to pickup with controller)
+
 Week 3
 - Avatars, animation, voice recording (if possible)
 - User interaction - leave gifts, pay respects
+
 Week 4
 - Lighting, effects
 - Polishing
