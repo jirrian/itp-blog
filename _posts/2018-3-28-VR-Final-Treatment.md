@@ -26,6 +26,7 @@ Inspiration images:
 Minimal textures with low poly models.
 Transparencies for the avatars of the dead.
 Dark cluttered rooms with bright lighting from 1-2 small light sources (candles).
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/poetics_of_space/final_treatment/lighting-example.jpg)
 
 ### Production Plan ###
 Week 1
