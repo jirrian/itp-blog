@@ -1,0 +1,102 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Focus!!! - Animal Crossing Music</title>
+        <script>
+        	// https://www.elated.com/articles/creating-a-javascript-clock/
+        	// https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API
+
+        	function updateClock(){
+        		var currentTime = new Date();
+				var currentHours = currentTime.getHours();
+				var ampm = 'am';
+				var hourDisplay;
+				if(currentHours == 0){
+						hourDisplay = 12;
+				}
+				else if(currentHours > 12){
+					hourDisplay = currentHours % 12;
+					ampm = "pm";
+				}
+
+				var minuteDisplay;
+				var currentMinute = currentTime.getMinutes();
+				if(currentMinute < 10){
+					minuteDisplay = '0' + currentMinute;
+				}
+				else{
+					minuteDisplay = currentMinute;
+				}
+
+				//make string
+				var timeString = 'It\'s ' + hourDisplay + ':' + minuteDisplay + " " + ampm;
+
+				//display
+				document.getElementById("time").innerHTML = timeString;
+				document.title = hourDisplay + " " + ampm.toUpperCase() + " - Animal Crossing Music";
+
+				checkHour(hourDisplay, ampm);
+
+        	}
+
+        	// check if hour is different than last second, if so play new music
+        	var hourSaved = 0;
+        	function checkHour(hour, ampm){
+        		if(hour != hourSaved){
+        			//set audio
+					playMusic(hour, ampm);
+					hourSaved = hour;
+        		}
+        	}
+
+        	// set source of player
+        	function playMusic(hour, ampm){	
+        		var player = document.getElementById("player");
+        		player.src = './day_music/' + hour + '-' + ampm + '.mp3';
+        		player.loop = true;
+        		if(document[hidden]){	// in the case hour changes while window is not active
+					player.play();
+				}
+        	}
+
+        	// Set the name of the hidden property and the change event for visibility
+			var hidden, visibilityChange; 
+			if (typeof document.hidden !== "undefined") { // Opera 12.10 and Firefox 18 and later support 
+				hidden = "hidden";
+				visibilityChange = "visibilitychange";
+			}else if(typeof document.msHidden !== "undefined"){
+				hidden = "msHidden";
+				visibilityChange = "msvisibilitychange";
+			}else if(typeof document.webkitHidden !== "undefined"){
+				hidden = "webkitHidden";
+				visibilityChange = "webkitvisibilitychange";
+			}
+
+			function handleVisibilityChange() {
+				// get audio player
+        		var player = document.getElementById("player");
+
+				if(document[hidden]){
+					player.play();
+				}
+				else{
+			   		player.pause();
+			  	}
+			}
+
+			// Handle page visibility change   
+  			document.addEventListener(visibilityChange, handleVisibilityChange, false);
+
+    	</script>
+    </head>
+    <body onload="updateClock(); setInterval('updateClock()', 1000 )">
+    	<div id='wrapper'>
+    		<h1 id="time"></h1>
+    		<h2>Now minimize this window and do work!!</h2>
+
+    		<audio id="player"></audio>
+
+    		<p>The Animal Crossing soundtrack has a specific song that plays during each hour of the day. This page plays music from the soundtrack corresponding to your local machine time. In order to encourage you to focus and get work done, the music only plays when this window is not active (on a different tab or minimized).</p>
+    	</div>
+    </body>
+</html>
