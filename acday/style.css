@@ -15,7 +15,7 @@
 }
 
 .header{
-	font-family: 'FinkHeavy';
+	font-family: 'FinkHeavy', 'WildWorld', Lucida Sans;
 	font-size: xx-large;
 	padding:0;
 	margin:0;
@@ -27,7 +27,7 @@
 }
 
 #description{
-	font-family: 'WildWorld';
+	font-family: 'WildWorld', Lucida Sans;
 	font-size: 30px;
 	font-weight: bold;
 }
