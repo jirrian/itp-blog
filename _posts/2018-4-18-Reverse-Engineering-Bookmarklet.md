@@ -39,7 +39,7 @@ javascript: {
 ```
 
 ### Analysis ###
-When the bookmarlet is executed, the bookmarklet creates a script element that references the main PageZipper functionalities script and adds it to the head of the page. The script with the main functionalities is `www.printwhatyoulike.com/static/pagezipper/pagezipper_10.js`, [viewable here](http://www.printwhatyoulike.com/static/pagezipper/pagezipper_10.js). 
-The check for `if (window["pgzp"])` is so that the bookmarklet doesn't execute again if it's already been executed on the page. If you click it while it's already running, it stops running (`_pgzpToggleBookmarklet()`).
+When the bookmarlet is executed, the bookmarklet creates a script element that references the main PageZipper functionalities script and adds it to the head of the page. The script with the main functionalities is `www.printwhatyoulike.com/static/pagezipper/pagezipper_10.js`. 
+The check for `if (window["pgzp"])` is so that the bookmarklet doesn't execute again if it's already been executed on the page. If you click it while it's already running, it stops running due calling the function `_pgzpToggleBookmarklet()`.
 This bookmarklet uses jQuery.
 
