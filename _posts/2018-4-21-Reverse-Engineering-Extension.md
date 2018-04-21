@@ -6,7 +6,7 @@ categories: hackingthebrowser
 I'm reverse engineering the [Tab Snooze](https://chrome.google.com/webstore/detail/tab-snooze/pdiebiamhaleloakpcgmpnenggpjbcbm) extension. This extension lets you "close unnecessary tabs and make them magically reappear when you need them."
 
 Here is the file system for this extension. I downloaded the files using [Chrome Extension Source Viewer](https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin/related?hl=en).
-Insert image here
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/hackingthebrowser/tabsnoozefiles.png)
 
 Looking in the `manifest.json` file, it requires the following permissions:
 ```json
