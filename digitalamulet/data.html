@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Digital Amulet</title>
+
+        <script>
+    		if(window.location.hash != ""){
+    			var accessToken = window.location.hash.substr(14);
+    			console.log(accessToken);
+    			//getRecentPostInfo(accessToken);
+			}
+
+			function getRecentPostInfo(accessToken){
+				var requesturl = 'https://api.instagram.com/v1/users/self/media/recent/?access_token=' + accessToken;
+        		var request = new XMLHttpRequest();
+        		request.open('GET', requesturl);
+	        	request.responseType = 'json';
+				request.send();
+
+				request.onload = function() {
+	  				var jsonObj = request.response;
+	  				console.log(jsonObj);
+	  				//username
+	  				var username = jsonObj['data'][0]['user']['username'];
+	  				//date and time
+	  				var createdTime = jsonObj['data'][0]['created_time'];
+
+	  				var a = new Date(createdTime * 1000);
+					var year = a.getUTCFullYear();
+					var month = a.getUTCMonth() + 1;
+					var day = a.getUTCDate();
+					var UTChour = a.getUTCHours();
+					var ampm = 'AM';
+					var hour;
+					if(UTChour == 0){
+						hour = 12;
+					}
+					else if(UTChour > 12){
+						hour = UTChour % 12;
+						ampm = "PM";
+					}
+					var minute = a.getUTCMinutes();
+
+	  				//location
+	  				var location = jsonObj['data'][0]['location'];
+	  				if(location != null){
+	  					var latitude = location['latitude'];
+	  					var longitude = location['longitude'];
+	  				}
+	  				// just put new york as the default
+	  				else{
+	  					var latitude = 40.730610;
+	  					var longitude = -73.935242;
+	  				}
+	  				generateBirthChartLink(username, month, day, year, hour, minute, ampm, latitude, longitude);
+	  			}
+			}
+
+			function generateBirthChartLink(username, month, day, year, hour, minute, ampm, latitude, longitude){
+				var chartURL = "https://alabe.com/cgi-bin/chart/astrobot.cgi?INPUT1=" + username + "&MONTH=" + month + "&DAY=" + day + "&YEAR=" + year + "&HOUR=" + hour + "&MINUTE=" + minute + "&AMPM=" + ampm + "&INPUT6=" + latitude + "&INPUT7=" + longitude + "&INPUT8=UTC";
+				console.log(chartURL);
+				window.open(chartURL);
+			}
+
+    	</script>
+    </head>
+    <body>
+
+    	
+    </body>
+</html> 
