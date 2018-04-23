@@ -9,7 +9,7 @@
     			console.log(accessToken);
 			}
 
-			var numComments = 0;
+			var numCommentsOld = 0;
 
 			function getRecentPostInfo(accessToken){
 				var requesturl = 'https://api.instagram.com/v1/users/self/media/recent/?access_token=' + accessToken;
@@ -49,11 +49,21 @@
 	  				// calculate likes value and check for new comments
 	  				// likes value is (# of likes) / (number of posts)
 	  				var likesValue = 0;
+	  				var numComments = 0;
 	  				for(var i = 0; i < posts.length; i++){
 	  					likesValue += jsonObj['data'][i]['likes']['count'];
+	  					numComments += jsonObj['data'][i]['comments']['count'];
 	  				}
-	  				// display likes value on browser
-	  				document.getElementsByTagName("body")[0].innerHTML = "*" + likesValue / posts.length + "*";
+	  				
+	  				//compare old value of number of comments to new one
+	  				var gotNewComment = "";
+	  				(if numComments > numCommentsOld){
+	  					numCommentsOld = numComments;
+	  					gotNewComment = "new comment!";
+	  				}
+
+	  				// display likes and comments value on browser
+	  				document.getElementsByTagName("body")[0].innerHTML = "^" + likesValue / posts.length + "^" + gotNewComment + "^";
 	  			}
 			}
 
