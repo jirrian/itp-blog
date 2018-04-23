@@ -57,7 +57,7 @@
 	  				
 	  				//compare old value of number of comments to new one
 	  				var gotNewComment = "";
-	  				(if numComments > numCommentsOld){
+	  				if (numComments > numCommentsOld){
 	  					numCommentsOld = numComments;
 	  					gotNewComment = "new comment!";
 	  				}
@@ -70,6 +70,5 @@
     	</script>
     </head>
     <body onload="getRecentPostInfo(accessToken); setInterval('getRecentPostInfo(accessToken)', 30000)">
-    	*161*
     </body>
 </html> 
