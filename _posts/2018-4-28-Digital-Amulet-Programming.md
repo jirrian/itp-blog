@@ -41,7 +41,7 @@ Now, I just had to code the lighting pattern that I wanted the neopixels to disp
 - comments: adding red to leds in a wipe pattern if the # of comments on the first three posts increases
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/final/lightpattern.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kV6PxAz2Ru8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/kV6PxAz2Ru8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 As you can see, the likes lighting pattern relationship to the instagram data is not as explicit as the comments lighting pattern.
 
 #### Finished Documentation ####
@@ -50,4 +50,4 @@ As you can see, the likes lighting pattern relationship to the instagram data is
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/final/digitalamulet_model.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/final/digitalamulet_model_lit.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fCvrKaWGQ8c?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/fCvrKaWGQ8c?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
