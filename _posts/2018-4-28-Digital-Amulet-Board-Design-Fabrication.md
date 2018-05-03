@@ -33,3 +33,5 @@ Battery holder soldered on
 
 Acrylic overlay cut out and installed
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/final/board.jpg)
+
+[Link to part 2 about the programming of the board](http://blog.jzhong.today/electronicrituals/Digital-Amulet-Programming/)
