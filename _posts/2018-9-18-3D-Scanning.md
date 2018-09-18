@@ -8,4 +8,4 @@ categories: performingavatars
 I scanned Lin and Lin scanned me and it took us several tries to get a decent scan.
 
 Even in my final scan, you can see that the carpet has fused inbetween my legs and one of the arms is a bit messy.
-![alt text]
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/performingavatars/week2/itseez3d.png)
