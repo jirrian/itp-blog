@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Avatar Creation System Self Portraits"
+title: "3D Scanning"
 categories: performingavatars
 ---
 
