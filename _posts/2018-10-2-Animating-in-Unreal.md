@@ -12,4 +12,4 @@ I followed the [tutorials](https://itp.nyu.edu/classes/avatars/in-class-lab-scre
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/performingavatars/week4/physics_asset.png)
 
 I was able to implement the 3rd person control animations with blend states. 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=oq4fdb9QvyU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=oq4fdb9QvyU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
