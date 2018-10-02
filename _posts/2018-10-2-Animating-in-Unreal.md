@@ -17,4 +17,7 @@ I was able to implement the 3rd person control animations with blend states.
 #### Final Project Idea ####
 I want to make a typing game where the users skills at typing affect the animations of an avatar. The avatar will be dancing and dance better if the user types the phrases correctly. If the user makes mistakes, the avatar will be more sluggish and dance worse. I plan to use blend states to make this happen.
 
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/performingavatars/week4/typingofthedead.jpg)
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/performingavatars/week4/ddr.jpg)
+
 I'm not very familiar with Unreal engine and blueprints so I'm not sure how long it will take me to create the game part of this project. I'm much more confident with coding in Unity but I've never done animations in it.
