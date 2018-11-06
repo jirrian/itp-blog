@@ -9,6 +9,6 @@ I made a simple webapp that recognizes if you are showing it a teddy bear. The w
 My code looks for the "teddy, teddy bear" result, but you could change this any of the other results that are available.
 
 Video demo:
-<iframe width="560" height="315" src="https://youtu.be/MNgVVTeAOxw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MNgVVTeAOxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [my github repo with code](https://github.com/jirrian/findRilakkuma)
