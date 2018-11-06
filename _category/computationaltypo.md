@@ -1,0 +1,5 @@
+---
+tag: computationaltypo
+permalink: "/computationaltypo"
+---
+
