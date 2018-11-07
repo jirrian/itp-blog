@@ -18,3 +18,4 @@ Each of these actions correspond to a gesture that can be set by the user.
 [my github repo with code](https://github.com/jirrian/asemicWritingTeachableMachine)
 
 Some outputs:
+[!alt text](../images/computationaltypo/week2/output1.png)
