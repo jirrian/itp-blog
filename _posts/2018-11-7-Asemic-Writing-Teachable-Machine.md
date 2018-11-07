@@ -21,7 +21,7 @@ Each of these actions correspond to a gesture that can be set by the user.
 [my github repo with code](https://github.com/jirrian/asemicWritingTeachableMachine)
 
 Some outputs:
-[!alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/computationtypo/week2/output1.png)
-[!alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/computationtypo/week2/output2.png)
-[!alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/computationtypo/week2/output3.png)
-[!alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/computationtypo/week2/output4.png)
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/computationtypo/week2/output1.png)
+![!alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/computationtypo/week2/output2.png)
+![!alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/computationtypo/week2/output3.png)
+![!alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/computationtypo/week2/output4.png)
