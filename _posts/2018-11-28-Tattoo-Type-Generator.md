@@ -17,3 +17,5 @@ I used a [free medival style font](https://www.dafont.com/theme.php?cat=401) and
 The final result I got was not exactly like the reference images. But I think the sketchy and scribbly elements fit the style of the artist's work. I don't fully understand the different types of paths and when they are called (part of [opentype.js library](https://github.com/opentypejs/opentype.js)), but it was interesting to explore this library.
 
 [link to p5 sketch](https://editor.p5js.org/jirrian/sketches/rJM9qfnCX)
+
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/computationtypo/week4/attempt2.png)
