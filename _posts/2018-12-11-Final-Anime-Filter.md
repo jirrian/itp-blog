@@ -49,3 +49,9 @@ Originally, I also wanted to use body-pix to detect the figure and remove the ba
 
 Photoshopped idea of what I was going for:
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/mlforweb/final/proposed_final.png)
+
+I want people to upload a photo and then be able to download it.
+I would also like them to be able to choose between different styles.
+
+[link to github repo](https://github.com/jirrian/anime_filter)
+
