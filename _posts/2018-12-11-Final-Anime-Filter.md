@@ -53,5 +53,7 @@ Photoshopped idea of what I was going for:
 I want people to upload a photo and then be able to download it.
 I would also like them to be able to choose between different styles.
 
+One issue I thought of is that this model probably won't work well for people with darker skin tones. This is a similar issue that the Meitu app had too. Maybe I will need to use a different type of style transfer or experiment with parameters so that the colors of the style are not applied as strongly.
+
 [link to github repo](https://github.com/jirrian/anime_filter)
 [try the demo here](http://blog.jzhong.today/anime_filter/)
