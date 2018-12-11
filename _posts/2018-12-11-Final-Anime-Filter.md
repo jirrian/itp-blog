@@ -54,4 +54,4 @@ I want people to upload a photo and then be able to download it.
 I would also like them to be able to choose between different styles.
 
 [link to github repo](https://github.com/jirrian/anime_filter)
-
+[try the demo here](http://blog.jzhong.today/anime_filter/)
