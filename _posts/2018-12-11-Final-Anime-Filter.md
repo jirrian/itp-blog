@@ -13,7 +13,7 @@ I made a selfie filter that adjusts a photo with style transfer and poseNet. The
 First, I tested different models of style transfer to find one that would best give an 'anime style' to a photo. I wasn't sure how different styles of anime drawings would translate to style transfer models so I tried different types of 'anime style' depictions. I think the first one gave the best result although I like the 4th one too.
 I used [this method](https://github.com/yining1023/styleTransfer_spell) to train a style transfer model and convert to ml5.
 
-![alt text](https://github.com/jirrian/jirrian.github.io/blob/master/images/mlforweb/final/styletransfer_test_matrix.png)
+![alt text](https://github.com/jirrian/jirrian.github.io/blob/master/images/mlforweb/final/styletransfer_test_matrix.png?raw=true)
 
 As you can see, style transfer doesn't change the size and shape of the face. So even if the drawings have exaggerated eyes, the style transfer model won't. I decided to use poseNet to enlarge the eyes and add other elements. I photoshopped the original photo with the effects I wanted to test how they would look like after being style transfered.
 
