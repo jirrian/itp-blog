@@ -47,10 +47,15 @@ It works the same as the first image I tried but it's still scary.
 ### Edit 12/18/18: Improvements ###
 
 I worked on other aspects of this filter for [another class](http://blog.jzhong.today/computationaltypo/Final-Filter-With-Manga-Text/) and was able to improve the blending aroud the eyes with a png mask file.
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/mlforweb/final/filter2.png)
 
 My final results as of now with different style transfer models:
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/mlforweb/final/final_2_style1.png)
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/mlforweb/final/final_2_style2.png)
 
 It works with more than 1 pose too if you change the poseNet function call from `poseNet.singlePose(img);` to `poseNet.multiPose(img);`.
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/mlforweb/final/final_2_style1_2pose.png)
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/mlforweb/final/final_2_style2_2poses.png)
 
 ### To Do ###
 
