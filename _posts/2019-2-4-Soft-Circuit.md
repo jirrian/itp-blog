@@ -1,12 +1,22 @@
 ---
 layout: post
-title: "Light Sculpture"
-categories: videosculpture
+title: "Soft Circuit"
+categories: wearables
 ---
 
-![alt text](https://github.com/jirrian/jirrian.github.io/blob/master/images/videosculpture/light.jpg?raw=true)
-I worked with [Jenny](https://www.jenny-lin.com/blog-1/categories/video-sculpture) and [Defne](https://defneonenitp.tumblr.com/tagged/videosculptures) to create this light sculpture. The concept was to make a sculpture that changes how users view sirens. The light pattern of the siren slows down when users touch the surface in front, giving them control over a chaotic light that typically symbolizes panic.
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/wearables/softcircuit/open.jpg)
+I always carry around tote bags with a lot of random items inside. When it comes time to find something like my keys or wallet, I have to really dig inside to find it. It's especially hard if the bag is really deep and is made of a solid dark material because I can't see anything. So, for this assignment, I wanted to make a soft circuit that can light up the inside of my bag when I open it.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/viUZgilBfIw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The switch is the large fabric tab. When I'm carrying the bag, I don't want the LEDs to be on. The tab will be hanging over the other side of the bag. When I open the bag, I will press the tab against the side that is holding the battery, completing the circuit and lighting the LEDs.
 
-[link to arduino code](https://github.com/jirrian/smoothSiren)
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/wearables/softcircuit/closed_inuse.jpg)
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/wearables/softcircuit/open_inuse.jpg)
+
+This is a prototype. I purposely made it on a seperate sheet of fabric rather than sewing everything on the tote itself so that it can be easily removable and attached and tested on a different bag.
+
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/wearables/softcircuit/open_touching.jpg)
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/wearables/softcircuit/closed.jpg)
+
+In the end, I couldn't get my leds to light up. I did a beep test with a multimeter but I could not find out what was causing the problem exactly.  I think I was overly confident in the conductivity of the conductive thread. The part where the tab is held down by the user and is supposed to make contact to the battery through another layer of fabric is probably the weak point. 
+
+If I were to try this again, I would use an entire piece of conductive fabric or mesh on the front part of the battery pocket so the connection is
