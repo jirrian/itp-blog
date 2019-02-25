@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Umbrella That Knows If You Need It"
+title: "A New Sense: Do I Need My Umbrella Today?"
 categories: wearables
 ---
 
@@ -26,6 +26,7 @@ This project is kind of inbetween a wearable and IoT. My design is to make the b
 
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/wearables/umbrella_light/umbrella_light_prog.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/wearables/umbrella_light/arduinoide.png)
+[previous project](http://blog.jzhong.today/electronicrituals/Digital-Amulet-Programming/)
 
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/wearables/umbrella_light/serial.png)
 
