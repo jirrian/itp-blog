@@ -4,9 +4,13 @@ title: "Notebook Installation"
 categories: videosculpture
 ---
 
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/videosculpture/portrait/projection.jpg)
 I worked on this installation with [Defne](https://defneonenitp.tumblr.com/tagged/videosculptures). The assignment was to create a video portrait that "give[s] us an idea of the person or persons". We were inspired by the personal and individualistic nature of people's notebooks.
 
 For the filming, I asked people at ITP if they were willing to have their notebooks filmed. They were instructed to flip through their own notebook however they liked.
+
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/videosculpture/portrait/projection2.jpg)
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/videosculpture/portrait/setup.jpg)
 
 Defne edited the footage together into one video. Then it was projected with a PICO projector on a blank notebook that was taped open. We used MadMapper to map the projection onto the notebook.
 
