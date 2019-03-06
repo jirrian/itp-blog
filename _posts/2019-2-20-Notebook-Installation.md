@@ -14,4 +14,4 @@ For the filming, I asked people at ITP if they were willing to have their notebo
 
 Defne edited the footage together into one video. Then it was projected with a PICO projector on a blank notebook that was taped open. We used MadMapper to map the projection onto the notebook.
 
-<iframe src="https://www.youtube.com/embed/CTbbSJxv4VQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CTbbSJxv4VQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
