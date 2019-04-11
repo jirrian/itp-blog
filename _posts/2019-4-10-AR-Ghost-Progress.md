@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AR Ghost Sculpture Progress
+title: "AR Ghost Sculpture Progress"
 categories: videosculpture
 ---
 
