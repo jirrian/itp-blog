@@ -19,7 +19,9 @@ This figure is a 3D model made of synthetic and exaggerated body parts. It is ma
 
 #### Concept ####
 This is piece #2 of a three piece series I am creating for my thesis called Person Thing #1-3. It is a series of experiments where I attempt to create representations of the yellow woman using synthetic and immaterial mediums and examine my relationship with my creations. Will I see my creations as another object? Or as a clone of myself? A new separate being?
-On the topic of east asian femininity in Western visual culture, Anne Anlin Cheng writes, “We have roughly marshalled this vast and tenacious history under a broad heuristic that we might roughly label “Oriental female objectification,” refracted through the lenses of commodity and sexual fetishism. Yet we barely know how to process the political, racial, and ontic complications of confronting a human figure that emerges as and through ornament.” This project aims to explore that elusive gray area in between “thing” and “person” by specifically playing with the visual language used in science fiction media to depict both futuristic and atavistic concepts.
+
+For some background, on the topic of east asian femininity in Western visual culture, Anne Anlin Cheng writes, “We have roughly marshalled this vast and tenacious history under a broad heuristic that we might roughly label “Oriental female objectification,” refracted through the lenses of commodity and sexual fetishism. Yet we barely know how to process the political, racial, and ontic complications of confronting a human figure that emerges as and through ornament.” This project aims to explore that elusive gray area in between “thing” and “person” by specifically playing with the visual language used in science fiction media to depict both futuristic and atavistic concepts.
+
 I want the viewer to experience an eery feeling from seeing a breathing, human-sized figure that is grotesque and inorganic in appearance at an intimate distance. I also want the viewer to be confused by the combination of humanlike movements and a mechanical, synthetic avatar.
 
 #### Why is this concept a meaningful exploration of video sculpture? ####
