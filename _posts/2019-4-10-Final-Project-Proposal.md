@@ -4,6 +4,8 @@ title: "Final Project Proposal"
 categories: videosculpture
 ---
 
+Final project proposal for continuing [this piece](http://blog.jzhong.today/videosculpture/AR-Ghost-Progress/).
+
 #### Three word description ####
 synthetic, grotesque, vulnerable
 
@@ -26,8 +28,9 @@ I'm creating a virtual sculpture that appears alive.
 #### Plan for installation ####
 The virtual sculpture will be available as an app on the Google Play Store. In the future, I would like to host it on the internet using the WebXR framework. This is so that more people can access it across all devices. It's also easier for people to go to a web address rather than download a seperate app.
 
-#### Wireframe ####
+#### Sketch ####
+![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/videosculpture/ghost/sketch.jpg)
 
 #### Artist Statement ####
-
+Jillian Zhong is a multi-media creator who appropriates and deconstructs visual languages in popular and corporate cultures throughout her work. Working in mediums varying from fashion to web to XR, she focuses on themes such as identity and memory.
 
