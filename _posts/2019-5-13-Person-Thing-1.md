@@ -11,14 +11,16 @@ This project is part of my thesis where I'm examining the blurry line between "p
 This project consists of a garment constructed of clear acrylic and custom printed circuit boards with speakers and neopixel leds. The speakers are fed audio through aux cord inputs connected to phones playing videos.
 I wanted to depict a synthetic skin that comes to life through media. The speakers’ audio blend together, conceptually imbuing the skin with media.
 
-####Concept####
+#### Concept ####
+
 While designing the aesthetic of this piece, I was inspired by this collection by Alexander McQueen for Givenchy F/W 1999. As well as these Paco Rabanne dresses. [See my Are.na board for more of my inspiration images.](https://www.are.na/jillian-zhong/robotic-futuristic-tech-fetishistic-garment-design)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/wearables/pcb_top/final/mcqueen.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/wearables/pcb_top/final/pacorabanne.jpg)
 
 I chose hard materials because I wanted the garment to hold it’s form and show a figure's silhouette even when not worn by a person. I have been making pcb accessories at ITP so I thought this garment would be the perfect opportunity to make a larger project with those skills.
 
-####Process####
+#### Process ####
+
 There are 7 unique boards in the garment that consist of a speaker, an aux input, and an amplifier.
 There is also a microcontroller that drives neopixel leds. Finally, there is a power input board that connects to a micro usb cord.
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/wearables/pcb_top/final/pcb.jpg)
@@ -32,7 +34,7 @@ I then programmed the microcontroller controlling the neopixel leds to display t
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/wearables/pcb_top/final/0C2A9437_edit.jpg)
 ![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/wearables/pcb_top/final/0C2A9443_edit.jpg)
 
-####Reflection####
+#### Reflection ####
 I’m unsure about the display of the piece currently. The dress form I used for the documentation photos is smaller than I designed the garment for. I want to try suspending it from the ceiling to see if it looks like a ghost could be wearing it but didn't have time before thesis presentations. If I ever show this piece, I will try to display it like that. One of the feedback I got from critics is that it was hard to see the piece in the photos/videos due to how solid the dress form was in comparison. I need to think more about how to display/document it. I also want to focus more on editing specific videos that are displayed on the phone and making them cordinated. I chose some youtube videos for the documentation video but I want to be more intentional in the future.
 
 I see myself designing and creating these pcbs as handicraft even though the materials/outputs are usually associated with mass manufacturing. I wasn't necessarily thinking about this while planning this project, but after finishing, I'm thinking more about the context of labor and how that impacts how we value it. I'm a Chinese American in America designing and hand making printed circuit boards for an art project; many people may view me and my labor as an artisan. However, they may also view circuit boards manufactured in China as cheap or unreliable, devaluing the labor of many similar aged Chinese woman working in factories assembling circuit boards. I think continuing to work on these pcb projects may blur this divide in perception.
