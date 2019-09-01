@@ -3,7 +3,7 @@ layout: post
 title: "Meditation #1: Electronic skincare routine"
 categories: electronicrituals
 ---
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/electronicrituals/shinier/3_bright.jpg)
+![alt text](/images/electronicrituals/shinier/3_bright.jpg)
 I worked with [Lin Zhang](https://linzhangcs.github.io/blog/) on this project. Our concept started with thinking about skincare as a ritual. 
 
 ### Concept ###
@@ -22,7 +22,7 @@ We created 3 objects and a website to explain this electronic ritual.
 
 [Shinier website](https://linzhangcs.github.io/shiner/)
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/electronicrituals/shinier/3_dark.jpg)
+![alt text](/images/electronicrituals/shinier/3_dark.jpg)
 
 ### Project Documentation ###
 The product is based on lighttherapy skincare products such as this [Neutrogena light therapy mask](https://www.neutrogena.com/skin/skin-acne/light-therapy-acne-mask/6810124.html). We programed ATtiny85s to create a pulsing led and connected a switch.
@@ -31,12 +31,12 @@ Breadboarding
 ![alt text](https://github.com/jirrian/jirrian.github.io/blob/master/images/electronicrituals/shinier/breadboard.jpg?raw=true)
 
 Soldered on perf board
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/electronicrituals/shinier/perfboard.jpg)
+![alt text](/images/electronicrituals/shinier/perfboard.jpg)
 
 The enclosure is a glass jar that was spray painted frosted and a lid that was spray painted white.
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/electronicrituals/shinier/originaljar.jpg)
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/electronicrituals/shinier/lids.jpg)
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/electronicrituals/shinier/lidspainted.jpg)
+![alt text](/images/electronicrituals/shinier/originaljar.jpg)
+![alt text](/images/electronicrituals/shinier/lids.jpg)
+![alt text](/images/electronicrituals/shinier/lidspainted.jpg)
 
 Video showing light pulsing
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9909FzRYGCg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

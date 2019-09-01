@@ -4,7 +4,7 @@ title: "Creating Presence Experiment"
 categories: poeticsofspace
 ---
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/poetics_of_space/week1/erin_demo.png)
+![alt text](/images/poetics_of_space/week1/erin_demo.png)
 I worked with Erin and Yuan for this assignment. We attempted to make the user feel that they are very close to a volcano.
 
 #### Components ####
@@ -12,8 +12,8 @@ The visual component is a 360 video from inside a volcano. It was ripped from [t
 
 [Link to 360 video](https://drive.google.com/open?id=1aUojfvIMitoL8ih3XL2RqxfgEr6Bk3Uk)
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/poetics_of_space/week1/volcano_ss1.png)
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/poetics_of_space/week1/volcano_ss2.png)
+![alt text](/images/poetics_of_space/week1/volcano_ss1.png)
+![alt text](/images/poetics_of_space/week1/volcano_ss2.png)
 
 The audio component is sounds of a volcano downloaded online separately. It was played on wireless headphones which the user was asked to wear.
 
@@ -21,8 +21,8 @@ The audio component is sounds of a volcano downloaded online separately. It was 
 
 Other components involved heat. We asked the user to take off their shoes and stand on a heat pad. We also blew a hot hair dryer at the user's face from the direction of the center of the volcano.
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/poetics_of_space/week1/headphones_dryer.jpg)
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/poetics_of_space/week1/heatpad.jpg)
+![alt text](/images/poetics_of_space/week1/headphones_dryer.jpg)
+![alt text](/images/poetics_of_space/week1/heatpad.jpg)
 
 #### User Testing ####
 We tested the experience with 2 people: Huiyi and Simon. The heat pad wasn't working when setting up the first test. Huiyi also told us that the headphones weren't playing anything. Huiyi felt that the air blowing from the hair dryer was uncomfortable due to how close it was. However, she said she did feel like she was standing in the environment (vs being an invisible floating camera). Due to the heat pad not working, her feet felt cold which took her out of the experience.

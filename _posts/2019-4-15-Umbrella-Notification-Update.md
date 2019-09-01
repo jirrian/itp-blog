@@ -12,7 +12,7 @@ Before, the code connected to wifi, made an https request, parsed the json feedb
 [photo from here](https://github.com/esp8266/Arduino/issues/460)
 
 At first, I tried putting the board into deep sleep. This turns off all of the ESP8266 except for the RTC circuit (real time clock) so that it can wake itself up. I followed [this tutorial](https://randomnerdtutorials.com/esp8266-deep-sleep-with-arduino-ide/) and connected the GPIO16 pin to the Reset pin.
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/wearables/umbrella_light/umbrella_light_gpio16_to_reset.jpg)
+![alt text](/images/wearables/umbrella_light/umbrella_light_gpio16_to_reset.jpg)
 
 I then added this line to the end of my existing code `ESP.deepSleep(43200000);` so that the chip would go to sleep for 12 hours.
 I tested this with 30 seconds at first and it worked! The board will connect to wifi, make the https request, and turn on the LED. Then, it sleeps for 30 seconds before restarting and running the code again. The only problem is that the LED also turns off during deep sleep.
@@ -29,12 +29,12 @@ I put the code into a loop and added this at the end inside the loop:
  ```
 I found this information in [this github thread](https://github.com/esp8266/Arduino/issues/460#issuecomment-168775857). Now, the wifi is supposed to turn off for 12 hours and wake up again afterwards. I tested it with 30 seconds and it worked. The LED stays on during modem sleep because only the wifi is being turned off.
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/wearables/umbrella_light/umbrella_light_ledon.jpg)
+![alt text](/images/wearables/umbrella_light/umbrella_light_ledon.jpg)
 
 [github link to code](https://github.com/jirrian/umbrella_light)
 
 I'm not sure how much battery this saves compared to deep sleep. I still need to test the battery life of this board by just leaving it connected and running.
 
 I also worked on a possible enclosure design for this project:
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/wearables/umbrella_light/umbrella_light_enclosure_sketch.jpg)
+![alt text](/images/wearables/umbrella_light/umbrella_light_enclosure_sketch.jpg)
 

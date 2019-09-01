@@ -14,7 +14,7 @@ The variety in narration voices kept me engaged. There was consistentancy to the
 ##### The Ecstacy of Influence #####
 This reading legitimized fields to me that I've already been interested in: the idea that collage is the art form of the century and the importance of deepening an understanding of how methods and motifs are interpreted by people and manipulating that. Growing up "swamped by parodies that stood for originals yet mysterious to me", the situation of learning about a passage by John Donne through a movie adaptation of another novel was relatable, especially as someone that did not go through extensive humanities education or have family members interested in literature. I learned of Philip Larkin and his poem "This Be The Verse" from the following Supreme sweatshirt:
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/clsvideoandsound/http-%252F%252Fhypebeast.com%252Fimage%252F2016%252F08%252Fphilip-larkin-supreme-2.jpg)
+![alt text](/images/clsvideoandsound/http-%252F%252Fhypebeast.com%252Fimage%252F2016%252F08%252Fphilip-larkin-supreme-2.jpg)
 
 ##### Embrace the Remix #####
 This TED talk was in 2004 but today in 2017, I feel like it's not that novel to understand everything as a remix. The average person looks at memes on twitter or instagram and recognizes that images from other media are being reinterpreted by other people on social media. Also, much of mainstream music production includes samples, many of which are supposed to be recognizable to the listener. We are also used to constant remakes and adaptations of older franchises in movies and tv, often adjusted to appeal to current day themes.

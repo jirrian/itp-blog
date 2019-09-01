@@ -4,7 +4,7 @@ title: "Meditation #4: Talking Board of Today"
 categories: electronicrituals
 ---
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/electronicrituals/talkingboardoftoday/tbotss.png)
+![alt text](/images/electronicrituals/talkingboardoftoday/tbotss.png)
 
 #### Concept ####
 I wanted to create a modern, electronic talking board that is easily accessible to many users. I brought back an idea I was working on several years ago and redesigned it. I had created a mobile Ouija board app where the planchette is moved based on the accelerometer readings of the mobile phone. To use this app, users have to all hold the phone face up together. Using the ideomotor effect, the phone might turn and rotate, making the planchette move to a letter. 
@@ -15,7 +15,7 @@ I had it uploaded to the Google Play Store but it was removed after a copyright 
 #### Designing for Mobile ####
 For this iteration, I just copied the standard Ouija board design in the app. Since the screen space is limited to what is under the planchette compared to a physical Ouija board where users can see the whole board at all times, I didn't think this was actually the ideal board design for a mobile app. So, for this meditation, I decided to redesign the board for my app experience and simplify the spirit communication by making the board only answer yes or no questions. I also tuned the app to be more sensitive for the ideomotor effect to work properly.
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/electronicrituals/talkingboardoftoday/talkingboard.png)
+![alt text](/images/electronicrituals/talkingboardoftoday/talkingboard.png)
 
 The app is made in Unity and tested on Android (Google Nexus 6P).
 

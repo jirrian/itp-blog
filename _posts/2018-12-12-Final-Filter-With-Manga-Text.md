@@ -4,7 +4,7 @@ title: "Final: Filter with Manga Text"
 categories: computationaltypo
 ---
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/computationtypo/final/withText.png)
+![alt text](/images/computationtypo/final/withText.png)
 I made a selfie filter that adjusts a photo with style transfer and poseNet. The filter is exaggerated and influenced by anime style, similar to filter apps like Meitu app.
 This is a continuation of [my final for Machine Learning for the Web](http://blog.jzhong.today/mlforweb/Final-Anime-Filter/). I added options for users to add their own text overlays inspired by typesetting used in Shoujo manga.
 
@@ -15,7 +15,7 @@ I'm interested in the relationship between text and images in comics. For this p
 
 #### Visual Inspiration ####
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/computationtypo/final/example.jpg)
+![alt text](/images/computationtypo/final/example.jpg)
 I chose to focus on the white text bubbles and floating text that's used for sound effects and asides.
 
 I used [Wild Words](http://fontsgeek.com/fonts/CC-Wild-Words-Roman) and [Augie](https://www.dafont.com/augie.font) fonts.
@@ -23,14 +23,14 @@ I used [Wild Words](http://fontsgeek.com/fonts/CC-Wild-Words-Roman) and [Augie](
 #### Demo ####
 
 Users can type what they want to be in text bubbles or sound effects in comma separated strings. Users click on the canvas to add text bubbles. The sound effects are placed randomly based on points of eyes from PoseNet.
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/computationtypo/final/screenshot.png)
+![alt text](/images/computationtypo/final/screenshot.png)
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/computationtypo/final/filtered.png)
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/computationtypo/final/withText.png)
+![alt text](/images/computationtypo/final/filtered.png)
+![alt text](/images/computationtypo/final/withText.png)
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/computationtypo/final/withText2.png)
+![alt text](/images/computationtypo/final/withText2.png)
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/computationtypo/final/2peopleWithText.png)
+![alt text](/images/computationtypo/final/2peopleWithText.png)
 
 #### To do ####
 I want users to be able to upload their own photos and download the result.

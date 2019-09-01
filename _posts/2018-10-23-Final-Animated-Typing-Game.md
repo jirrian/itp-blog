@@ -4,18 +4,18 @@ title: "Final: Animated Typing Game - Dance Dance Worker's Revolution"
 categories: performingavatars
 ---
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/performingavatars/final/Capture2.PNG)
+![alt text](/images/performingavatars/final/Capture2.PNG)
 #### Concept ####
 I made a typing game about the glamorization of overworking yourself and the unhealthy work-life balance that is encouraged to "get ahead". Corporations often use words like 'passion' to justify encouraging their starting employees to work for free or overtime. 'Corporate feminism' encourages marginalized people to just work harder to overcome obstacles toward financial stability and career success rather than addressing structural issues. I also wanted to express my stress and burnout from doing freelance work to support myself while handling the workload at ITP.
 
 My concept for this game was to have an avatar dancing on a platform, such as a colorful, hyperreal stage where [overworked kpop idols have collapsed during performances](https://www.youtube.com/watch?v=c9wbQTvfxMA). The visuals are inspired by the style of the Dance Dance Revolution games. I wanted to user to be able to choose between several avatars, all with their own dance style and song.
 So far, I only implemented one of the avatar characters.
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/performingavatars/final/Capture.PNG)
+![alt text](/images/performingavatars/final/Capture.PNG)
 
 As phrases fall down from the top, the player must type them to get rid of them. If you make mistakes while typing, the avatar stumbles more and more while dancing. If you make too many mistakes, the game will end.
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/performingavatars/final/Capture3.PNG)
+![alt text](/images/performingavatars/final/Capture3.PNG)
 
 [Github repo](https://github.com/jirrian/danceDanceWorkersRevolution)
 

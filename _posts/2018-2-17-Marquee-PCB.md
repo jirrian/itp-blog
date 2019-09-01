@@ -4,23 +4,23 @@ title: "Marquee PCBs"
 categories: hardware
 ---
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/week3/marquee_lit.jpg)
+![alt text](/images/homemadehardware/week3/marquee_lit.jpg)
 For the marquee, I was assigned the letter 'i'. I designed the letter board and changed the sensor board since my last post. The new sensor board is based on Andy's; I only changed the sensor headers from 2 pins to 3 to fit a potentiometer.
 
 Boards after milling
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/week3/marquee_milled.jpg)
+![alt text](/images/homemadehardware/week3/marquee_milled.jpg)
 
 After soldering on components
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/week3/marquee_soldered.jpg)
+![alt text](/images/homemadehardware/week3/marquee_soldered.jpg)
 
 #### Schematics and Board Designs ####
 ATtiny85 and sensor board
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/week3/marqee_attiny85_sch_jillian.png)
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/week3/marqee_attiny85_brd_jillian.png)
+![alt text](/images/homemadehardware/week3/marqee_attiny85_sch_jillian.png)
+![alt text](/images/homemadehardware/week3/marqee_attiny85_brd_jillian.png)
 
 'i' board
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/week3/marqee_ledi_sch_jillian.png)
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/week3/marqee_ledi_brd_jillian.png)
+![alt text](/images/homemadehardware/week3/marqee_ledi_sch_jillian.png)
+![alt text](/images/homemadehardware/week3/marqee_ledi_brd_jillian.png)
 
 #### Code ####
 I programmed the ATtiny85 to make the leds pulse. I changed the interaction so that the potentiometer adjusts the pulse rate of the leds.

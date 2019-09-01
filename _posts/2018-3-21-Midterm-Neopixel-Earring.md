@@ -4,16 +4,16 @@ title: "Midterm: Neopixel Earring"
 categories: hardware
 ---
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/midterm/earring_final.jpg)
+![alt text](/images/homemadehardware/midterm/earring_final.jpg)
 I made a battery powered earing with neopixels. My goal for this assignment was to learn how to use surface mount components so I kept the design and functionality simple.
 
 #### Schematic and Board Design ####
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/midterm/neopixel_earring_sch.png)
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/midterm/neopixel_earring_brd.png)
+![alt text](/images/homemadehardware/midterm/neopixel_earring_sch.png)
+![alt text](/images/homemadehardware/midterm/neopixel_earring_brd.png)
 
 #### Parts List ####
 * WS2812B neopixel (7)
-* 0.1μF capacitor (7)
+* 0.1Î¼F capacitor (7)
 * ATTiny85
 * [coin cell battery holder](https://www.amazon.com/gp/product/B01J5FY2GI/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1)
 * 3V coin cell battery
@@ -75,13 +75,13 @@ uint32_t Wheel(byte WheelPos) {
 
 #### Process ####
 I had to remill the board several times while making the dimensions larger so that the ground plane would not get disconnected.
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/midterm/millprocess.jpg)
+![alt text](/images/homemadehardware/midterm/millprocess.jpg)
 
 After placing surface mount components and reflow:
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/midterm/smc.jpg)
+![alt text](/images/homemadehardware/midterm/smc.jpg)
 
 I left pads to solder wires to that connect to my Arduino Uno to program the ATTiny85. While programming, something went wrong and I could no longer get a device signature from my ATtiny85. I ended up replacing it with another one which worked.
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/homemadehardware/midterm/programming.jpg)
+![alt text](/images/homemadehardware/midterm/programming.jpg)
 
 #### Mistakes in Board Design ####
 After receiving the battery holders, I found out that they are different from the part I used in the board design. The ground pin is on the side and not in the center (as it is in the board design file). I soldered a wire to connect the ground plane in the center to the side plane which was not connected to anything. I then soldered the battery holder on top of that.

@@ -4,7 +4,7 @@ title: "Seven Ways to Combine Words and Pictures"
 categories: comics
 ---
 
-![alt text](https://raw.githubusercontent.com/jirrian/jirrian.github.io/master/images/comics/Week2_pictureswords.jpg)
+![alt text](/images/comics/Week2_pictureswords.jpg)
 
 <details>
   <summary>Click to see which panel is which</summary>
