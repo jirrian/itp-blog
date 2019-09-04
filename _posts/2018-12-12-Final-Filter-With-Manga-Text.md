@@ -39,4 +39,4 @@ Also, the webpage needs to be cleaned up and made to look nicer.
 
 [link to github repo](https://github.com/jirrian/anime_filter_with_text)
 
-[try the demo here](http://blog.jzhong.today/anime_filter_with_text/)
+[try the demo here](http://jzhong.today/anime_filter_with_text/)

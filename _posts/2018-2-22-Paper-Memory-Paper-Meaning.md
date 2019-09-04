@@ -5,7 +5,7 @@ categories: electronicrituals
 ---
 
 ![alt text](/images/electronicrituals/papermemorypapermeaningss.png)
-[Paper Memory Paper Meaning](http://blog.jzhong.today/papermemorypapermeaning/){:target="_blank"}
+[Paper Memory Paper Meaning](http://jzhong.today/papermemorypapermeaning/){:target="_blank"}
 
 I was interested in the prompt 'what can a card be?' and also how we attribute meaning to tarot cards based on imagery and conventional understandings.
 

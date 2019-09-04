@@ -73,7 +73,7 @@ One issue I thought of is that this model probably won't work well for people wi
 
 [Link to project github repo](https://github.com/jirrian/anime_filter)
 
-[Try the demo here](http://blog.jzhong.today/anime_filter/)
+[Try the demo here](http://jzhong.today/anime_filter/)
 
 [PoseNet single pose image example](https://github.com/ml5js/ml5-examples/tree/master/p5js/PoseNet/PoseNet_image_single)
 
