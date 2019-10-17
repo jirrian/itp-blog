@@ -4,7 +4,7 @@ title: "Final Project Proposal"
 categories: videosculpture
 ---
 
-Final project proposal for continuing [this piece](http://blog.jzhong.today/videosculpture/AR-Ghost-Progress/).
+Final project proposal for continuing [this piece](http://blog.jzhong.today/videosculpture/AR-Ghost-Progress/){:target="_blank"}.
 
 #### Three word description ####
 synthetic, grotesque, vulnerable

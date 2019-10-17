@@ -11,14 +11,14 @@ This project was a combination of my finals for Homemade Hardware and Electronic
 ![alt text](/images/homemadehardware/final/schematicfile.png)
 
 #### Parts List ####
-- [ESP8266 Module (ESP-12E)](https://www.amazon.com/gp/product/B01AE2VLDS/)
+- [ESP8266 Module (ESP-12E)](https://www.amazon.com/gp/product/B01AE2VLDS/){:target="_blank"}
 - WS2812B neopixel (10)
 - 0.1Î¼F capacitor (10)
 - 10K resistor (4)
 - 1K resistor (1)
-- [switch buttons](https://www.digikey.com/products/en?WT.z_se_ps=1&keywords=401-1427-1-nd) (2)
-- [coin cell battery holder](https://www.amazon.com/gp/product/B01J5FY2GI/)
-- [Li2032 3.6V Coin cell battery](https://www.amazon.com/gp/product/B06XCSTSSV/)
+- [switch buttons](https://www.digikey.com/products/en?WT.z_se_ps=1&keywords=401-1427-1-nd){:target="_blank"} (2)
+- [coin cell battery holder](https://www.amazon.com/gp/product/B01J5FY2GI/){:target="_blank"}
+- [Li2032 3.6V Coin cell battery](https://www.amazon.com/gp/product/B06XCSTSSV/){:target="_blank"}
 - 3-pin header
 
 #### Process ####
@@ -34,4 +34,4 @@ Battery holder soldered on
 Acrylic overlay cut out and installed
 ![alt text](/images/homemadehardware/final/board.jpg)
 
-[Link to part 2 about the programming of the board](http://blog.jzhong.today/electronicrituals/Digital-Amulet-Programming/)
+[Link to part 2 about the programming of the board](http://blog.jzhong.today/electronicrituals/Digital-Amulet-Programming/){:target="_blank"}

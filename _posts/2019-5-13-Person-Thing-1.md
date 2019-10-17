@@ -13,7 +13,7 @@ I wanted to depict a synthetic skin that comes to life through media. The speake
 
 #### Concept ####
 
-While designing the aesthetic of this piece, I was inspired by this collection by Alexander McQueen for Givenchy F/W 1999. As well as these Paco Rabanne dresses. [See my Are.na board for more of my inspiration images.](https://www.are.na/jillian-zhong/robotic-futuristic-tech-fetishistic-garment-design)
+While designing the aesthetic of this piece, I was inspired by this collection by Alexander McQueen for Givenchy F/W 1999. As well as these Paco Rabanne dresses. [See my Are.na board for more of my inspiration images.](https://www.are.na/jillian-zhong/robotic-futuristic-tech-fetishistic-garment-design){:target="_blank"}
 ![alt text](/images/wearables/pcb_top/final/mcqueen.jpg)
 ![alt text](/images/wearables/pcb_top/final/pacorabanne.jpg)
 
