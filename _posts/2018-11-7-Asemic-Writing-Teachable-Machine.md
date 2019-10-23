@@ -18,7 +18,9 @@ I broke down the asemic text generation into 4 elements:
 
 Each of these actions correspond to a gesture that can be set by the user.
 The image classification code is based off of this [ml5 example of
-KNN Classification on Webcam Images with mobileNet](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week2-ImageClassifier-KNN-Posenet/KNNClassification_Video).
+KNN Classification on Webcam Images with mobileNet](https://github.com/ml5js/ml5-examples/tree/development/p5js/KNNClassification/KNNClassification_Video){:target="_blank"}.
+
+[ml5 KNN Classifier documentation](https://learn.ml5js.org/docs/#/reference/knn-classifier){:target="_blank"}
 
 [my github repo with code](https://github.com/jirrian/asemicWritingTeachableMachine){:target="_blank"}
 
