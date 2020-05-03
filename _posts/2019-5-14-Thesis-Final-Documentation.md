@@ -4,7 +4,6 @@ title: "Thesis Final Documentation"
 categories: 
 ---
 
-## Thesis Presentation ##
 What follows is an edited transcript of my original thesis presentation titled "Person Thing #1-3: Explorations of a Cyborg" from May 2019. *Work in Progress*
 ![alt text](/images/thesis_slides/Thesis Final Presentation.001.png)
 
@@ -50,7 +49,7 @@ After *Ornamentalism*'s release, I came across this tweet by curator and writer 
 So with my background studying computer science, I thought “Who better to create cyborgs than a cyborg herself?” While designing and building this project, I positioned myself as a cyborg creating cyborgs.
 ![alt text](/images/thesis_slides/Thesis Final Presentation.011.png)
 
-#####Person Thing #1-3 is a series of experiments where I create representations of east asian women (or myself) in artificial objects and examine my relationship with my creations.#####
+##### Person Thing #1-3 is a series of experiments where I create representations of east asian women (or myself) in artificial objects and examine my relationship with my creations. #####
 
 Can I better understand the blurry line between person and thing and the visual language that drives it?
 
@@ -62,16 +61,24 @@ I designed these ideas around experimenting with different forms of representati
 I originally proposed three pieces and was told at midterms that it was “ambitious” and decided to go through with it. Right now, I’ve only completed 2 of them. So, I will talk more about these 2 in this presentation.
 
 Why a series and in different mediums?
+I want to see if I can rework similar themes/ideas and portray them in different mediums.  These projects also reflect my interests and ideas about art. I’ve always been caught between my interests in both mixed reality and hand crafting physical objects.
+Usually, I want my work to be accessible to anyone with at least an internet connection and a common mobile device. So, I designed this series to have some projects that can be downloaded and experienced at any location by a large number of people.
+
+### Person Thing #1 ###
+<iframe src="https://player.vimeo.com/video/335928201" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+A garment constructed of acrylic and printed circuit boards or pcbs with speakers and colored leds. The speakers are fed audio through aux cord inputs connected to mobile devices playing different videos. The audio quality is intentionally distorted with a lot of interference and feedback.
+
+I wanted to depict a synthetic skin that comes to life through media. The speakers’ audio blend together, conceptually imbuing the skin with media.
 
 ## Previous blog posts: ##
-#### Person Thing #1 ####
+### Person Thing #1 ###
 [PCB Top Progress](https://blog.jzhong.today/wearables/PCB-Top-Progress/){:target="_blank"}
 
 [Wearables Final Project Proposal](https://blog.jzhong.today/wearables/Wearables-Final-Proposal/){:target="_blank"}
 
 [Final Project: Person Thing #1](https://blog.jzhong.today/wearables/Person-Thing-1/){:target="_blank"}
 
-#### Person Thing #2 ####
+### Person Thing #2 ###
 [AR Ghost Process](https://blog.jzhong.today/videosculpture/AR-Ghost-Progress/){:target="_blank"}
 
 [Video Sculptures Final Project Proposal](https://blog.jzhong.today/videosculpture/Final-Project-Proposal/){:target="_blank"}
